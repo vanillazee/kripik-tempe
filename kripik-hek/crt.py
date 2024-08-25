@@ -1,7 +1,7 @@
 #chinese remainder theorem
 
-modulos = [5, 11, 17]
-a = [2, 3, 5]
+modulos = []
+a = []
 
 #compute N
 N = 1
